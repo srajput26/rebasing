@@ -1,1 +1,3 @@
 A new file was created in fetaure-1 branch.
+
+New line was added.
